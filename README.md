@@ -33,6 +33,6 @@ For a smooth Wabbajack installation you should create 3 new folders. These can b
 
 Here is an example of how you could have it setup "E:\Games\Odyssey"  
 
-IMPORTANT: All these folders and your Skyrim steam folder must be located outside of program files.
+IMPORTANT: All these folders and your Skyrim steam folder must be located outside of Program Files.
 ## Wabbajack Installation
 
