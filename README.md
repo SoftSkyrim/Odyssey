@@ -21,7 +21,7 @@ Must have the Anniversary Edition update with the paid Creation Club Content.
 Its recommended you have a fresh install of Skyrim Special Edition. If you unsure you can uninstall and install again:
 - Uninstall Skyrim through steam
 - Make sure everything has been deleted properly, check your steam folder.
-- Reinstall Skyrim through steam on the root of a drive, e.g., C:\SteamGames\SkyrimSpecialEdition. Do NOT install inside program files. You can follow [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) guide to create or move your steam library.
+- Reinstall Skyrim on the root of a drive, e.g., C:\SteamGames\SkyrimSpecialEdition. Do NOT install inside Program Files. You can follow [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) guide to create or move your steam library if required.
 - Start the game to create the necessary default files and install the Creation Club content that comes with the Anniversary Update.
 # Installation
 Once you have all that ready you can follow the steps below to install the Wabbajack modlist.
