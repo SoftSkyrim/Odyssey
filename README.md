@@ -29,7 +29,7 @@ Once you have all that ready you can follow the steps below to install the Wabba
 For a smooth Wabbajack installation you should create 3 new folders. These can be created on the root of a drive, for example, "C:" or "E:", or in a designated games/skyrim folder you have. The 3 folders are:
 - "Wabbajack" this is where you will install the Wabbajack program. If you already have wabbajack install, ignore this step
 - "Odyssey" this is where the Odyssey modlist will install. This is recommended to be on your fastest drive.
-- "Downloads" this is a resource where all the downloaded mods are kept. Can be on any drive, just make sure there is lots of space.
+- "Downloads" this is a resource where all the downloaded mods are kept. Can be on any drive, just make sure there is lots of space.  
 Here is an example of how you could have it setup "E:\Games\Odyssey"  
 IMPORTANT: All these folders and your Skyrim steam folder must be located outside of program files.
 ## Wabbajack Installation
