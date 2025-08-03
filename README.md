@@ -16,8 +16,8 @@ Download and install [.NET runtime](https://dotnet.microsoft.com/en-us/download)
 ## Nexus
 You need to have/create a [Nexus](https://www.nexusmods.com/) account. Premium is recommended to avoid having to manually click the download button for every mod.
 ## Skyrim
-Must have a legit copy of Skyrim Special Edition on Steam.
-Must have the Anniversary Edition update with the paid Creation Club Content.
+Must have a legit copy of Skyrim Special Edition on Steam.  
+Must have the Anniversary Edition update with the paid Creation Club Content.  
 Its recommended you have a fresh install of Skyrim Special Edition. If you unsure you can uninstall and install again:
 - Uninstall Skyrim through steam
 - Make sure everything has been deleted properly, check your steam folder.
