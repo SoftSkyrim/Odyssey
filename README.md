@@ -15,7 +15,7 @@ Please review the required system specs below. Odyssey is a visual modlist so a 
 | Storage | 500GB SSD | 500GB M.2 SSD |
 | Screen | 1920 x 1080 | 1920 x 1080 / 2560 x 1440 |
 ## Microsoft
-You need to download the latest x64 version beneath "Visual Studio 2015, 2017, 2019, and 2022" for [Microsoft Visual C++ Redistributable Packages](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
+You need to download and install the latest x64 version beneath "Visual Studio 2015, 2017, 2019, and 2022" for [Microsoft Visual C++ Redistributable Packages](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 
 You also need to download and install [.NET runtime](https://dotnet.microsoft.com/en-us/download).
 ## Nexus
