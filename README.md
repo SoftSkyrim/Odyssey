@@ -13,14 +13,14 @@ This is the Official Readme of Skyrim Odyssey
 | Storage | 500GB SSD | 500GB M.2 SSD |
 | Screen | 1920 x 1080 | 1920 x 1080 / 2560 x 1440 |
 ## Microsoft
-Download the latest x64 version beneath "Visual Studio 2015, 2017, 2019, and 2022" for [Microsoft Visual C++ Redistributable Packages](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
+You need to download the latest x64 version beneath "Visual Studio 2015, 2017, 2019, and 2022" for [Microsoft Visual C++ Redistributable Packages](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 
-Download and install [.NET runtime](https://dotnet.microsoft.com/en-us/download).
+You also need to download and install [.NET runtime](https://dotnet.microsoft.com/en-us/download).
 ## Nexus
 You need to have/create a [Nexus](https://www.nexusmods.com/) account. Premium is recommended to avoid having to manually click the download button for every mod.
 ## Skyrim
-Must have a legit copy of Skyrim Special Edition on Steam.  
-Must have the Anniversary Edition update with the paid Creation Club Content.  
+You MUST have a legit copy of Skyrim Special Edition on Steam.  
+You must have the Anniversary Edition update with the paid Creation Club Content.  
 Its recommended you have a fresh install of Skyrim Special Edition. If you unsure you can uninstall and install again:
 - Uninstall Skyrim through steam
 - Make sure everything has been deleted properly, check your steam folder.
