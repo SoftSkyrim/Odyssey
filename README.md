@@ -1,14 +1,17 @@
 # Odyssey
-
+This is the Official Readme of Skyrim Odyssey
+# Links
+[Nexus Modpage](https://www.nexusmods.com/skyrimspecialedition/mods/153205)  
+[Odyssey Discord](https://discord.gg/HHxNnZyEGt)  
 # Pre-Installation
 ## System Requirements
 |  | Minimum Specs | Recommended Specs |
 | :--- | :------: | :------: |
-| CPU |  | |
-| GPU |  |  |
-| RAM |  |  |
+| CPU | Ryzen 7 2700x / Intel-I7 8700k | Ryzen 7 5700 / Intel-i7 11700k |
+| GPU VRAM | 8GB | 12GB+ |
+| RAM | 16GB | 32GB |
 | Storage | 500GB SSD | 500GB M.2 SSD |
-| Screen |  |  |
+| Screen | 1920 x 1080 | 1920 x 1080 / 2560 x 1440 |
 ## Microsoft
 Download the latest x64 version beneath "Visual Studio 2015, 2017, 2019, and 2022" for [Microsoft Visual C++ Redistributable Packages](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 
