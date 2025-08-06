@@ -23,7 +23,7 @@ You need to have/create a [Nexus](https://www.nexusmods.com/) account. Premium i
 ## Skyrim
 You MUST have a legit copy of Skyrim Special Edition on Steam.  
 You must also have the Anniversary Edition update with the Creation Club content.  
-Its recommended you have a fresh install of Skyrim Special Edition. If you unsure you can uninstall and install again:
+Its recommended you have a fresh install of Skyrim Special Edition. If you are unsure you can uninstall and install again:
 - Uninstall Skyrim through steam
 - Make sure everything has been deleted properly, check your steam folder.
 - Reinstall Skyrim on the root of a drive, e.g., C:\SteamGames\SkyrimSpecialEdition. Do NOT install inside Program Files. You can follow [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) guide to create or move your steam library if required.
