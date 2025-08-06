@@ -6,6 +6,7 @@ This is the Official Readme of Skyrim Odyssey
 [Odyssey Discord](https://discord.gg/HHxNnZyEGt)  
 # Pre-Installation
 ## System Requirements
+Please review the required system specs below. Odyssey is a visual modlist so a decent GPU is recommended.
 |  | Minimum Specs | Recommended Specs |
 | :--- | :------: | :------: |
 | CPU | Ryzen 7 2700x / Intel-I7 8700k | Ryzen 7 5700 / Intel-i7 11700k |
@@ -36,6 +37,8 @@ For a smooth Wabbajack installation you should create 3 new folders. These can b
 - "Downloads" this is a resource where all the downloaded mods are kept. Can be on any drive, just make sure there is lots of space.
 
 Here is an example of how you could have it setup "E:\Games\Odyssey"  
+
+You can delete the "Downloads" folder after installation to save on space.  
 
 IMPORTANT: All these folders and your Skyrim steam folder must be located outside of Program Files.
 ## Wabbajack Installation
