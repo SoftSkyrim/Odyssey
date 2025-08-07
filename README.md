@@ -46,4 +46,14 @@ You can delete the "Downloads" folder after installation to save on space.
 IMPORTANT: All these folders and your Skyrim steam folder must be located outside of Program Files.
 ## Wabbajack Installation
 Once you have completed pre-installation, download the latest version of [Wabbajack](https://www.wabbajack.org/) and place it in the "Wabbajack" folder you created earlier. Do not place it in program files, on your desktop or in your downloads folder.  
-
+Download and extract the Main File from the [Odyssey Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/153205).  
+Then:
+- Open Wabbajack
+- Navigate to the Browse Lists tab
+- In the top right hand corner click 'Install From Disk'
+- Navigate to the Odyssey Wabbajack file and press open
+- Set the Installation location to the "Odyssey" folder from the earlier steps or somewhere else you want it to be
+- Set the Downloads location to the "Downloads" folder from the earlier steps or somewhere else you want it to be
+- Click the install button
+- Wait for the modlist to install
+- Enjoy!
