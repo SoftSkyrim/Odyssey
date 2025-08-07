@@ -4,6 +4,7 @@ This is the Official Readme of Skyrim Odyssey
 # Links
 [Nexus Modpage](https://www.nexusmods.com/skyrimspecialedition/mods/153205)  
 [Discord](https://discord.gg/HHxNnZyEGt)  
+Load Order Library  
 # Pre-Installation
 ## System Requirements
 Please review the required system specs below. Odyssey is a visual modlist so a decent GPU is recommended.
