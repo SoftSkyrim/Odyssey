@@ -45,4 +45,5 @@ You can delete the "Downloads" folder after installation to save on space.
 
 IMPORTANT: All these folders and your Skyrim steam folder must be located outside of Program Files.
 ## Wabbajack Installation
+Once you have completed pre-installation, download the latest version of [Wabbajack](https://www.wabbajack.org/) and place it in the "Wabbajack" folder you created earlier. Do not place it in program files, on your desktop or in your downloads folder.  
 
