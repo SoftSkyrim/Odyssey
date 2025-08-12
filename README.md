@@ -1,6 +1,6 @@
 # Odyssey
 This is the Official Readme of Skyrim Odyssey
-<img width="1280" height="520" alt="Image" src="https://github.com/user-attachments/assets/675f312c-c749-4fcd-b4b4-c1380c3a4da8" />
+<img width="1280" height="500" alt="Image" src="https://github.com/user-attachments/assets/22f862de-cb29-4668-a021-17f2f46f3af9" />
 # Links
 [Nexus Modpage](https://www.nexusmods.com/skyrimspecialedition/mods/153205)  
 [Discord](https://discord.gg/HHxNnZyEGt)  
