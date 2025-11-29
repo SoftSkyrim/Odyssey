@@ -21,6 +21,8 @@ You need to download and install the latest x64 version beneath "Visual Studio 2
 You also need to download and install [.NET runtime](https://dotnet.microsoft.com/en-us/download).
 ## Nexus
 You need to have/create a [Nexus](https://www.nexusmods.com/) account. Premium is recommended to avoid having to manually click the download button for every mod.
+## Pagefile
+Its recommended you increase your pagefile to at least 20GB. Intructions can be found [HERE](https://mcci.com/support/guides/how-to-change-the-windows-pagefile-size/)
 ## Skyrim
 You MUST have a legit copy of Skyrim Special Edition on Steam.  
 
@@ -47,7 +49,7 @@ Here is an example of how you could have it setup "E:\Games\Odyssey"
 
 You can delete the "Downloads" folder after installation to save on space.  
 
-IMPORTANT: All these folders and your Skyrim steam folder must be located outside of Program Files.
+IMPORTANT: All these folders and your Skyrim steam folder must be located outside of Program Files
 ## Wabbajack Installation
 Once you have completed pre-installation, download the latest version of [Wabbajack](https://www.wabbajack.org/) and place it in the "Wabbajack" folder you created earlier. Do not place it in program files, on your desktop or in your downloads folder.  
 
