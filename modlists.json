@@ -1,19 +1,17 @@
 [
   {
     "title": "Skyrim Odyssey",
-    "description": "Odyssey is a Vanilla+ modlist built to remaster Skyrim.",
+    "description": "Odyssey is a vanilla+ modlist that focusses on remastering Skyrim without losing the soul of the original game. Featuring just over 1,000 mods, Odyssey offers both a fresh gameplay experience and a solid foundation to build from.",
     "author": "Soft",
     "maintainers": [
       "github/SoftSkyrim"
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "Skyrim Special Edition",
       "SFW",
-      "Graphics",
-      "Combat",
-      "Immersion",
-      "Remaster",
+      "Combat Overhaul",
+      "Total Overhaul",
+      "Steam",
       "Vanilla+"
     ],
     "nsfw": false,
@@ -22,18 +20,18 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/153205/153205-1764472813-1902961278.png",
       "readme": "https://github.com/SoftSkyrim/Odyssey",
-      "download": "https://authored-files.wabbajack.org/Odyssey.wabbajack_a4d2d7b5-d5f2-463e-be23-e86874d663d5",
+      "download": "https://authored-files.wabbajack.org/Odyssey.7z_8b210db4-30aa-40f3-bf38-f4f8a19e4309",
       "machineURL": "SkyrimOdyssey",
       "discordURL": "https://discord.gg/HHxNnZyEGt"
     },
     "download_metadata": {
-      "Hash": "Ko8s+FS6YSY=",
-      "Size": 46831487,
-      "NumberOfArchives": 1311,
-      "SizeOfArchives": 131325053317,
-      "NumberOfInstalledFiles": 158180,
-      "SizeOfInstalledFiles": 174701426981
+      "Hash": "majy1iKEpqI=",
+      "Size": 46841896,
+      "NumberOfArchives": 1315,
+      "SizeOfArchives": 131857871744,
+      "NumberOfInstalledFiles": 158284,
+      "SizeOfInstalledFiles": 175031815923
     },
-    "version": "1.1.0"
+    "version": "1.1.1"
   }
 ]
