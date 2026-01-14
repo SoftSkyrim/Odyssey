@@ -50,7 +50,7 @@ However, if youre using keyboard and mouse there are a few hotkeys you will want
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/14831990-d9ef-46ef-ba11-c9b6249ffc4a" />
 
 ## Other MCMs
-You are free to adjust any MCMs as you want, they are by default setup as my personal preference. Some of the main ones you can look at include:
+You are free to adjust any MCMs as you want, they are by default setup with my personal preferences. Some of the main ones you may want to look at include:
 - Valhalla Combat
 - Violens
 - Simply balanced
