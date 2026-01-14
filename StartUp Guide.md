@@ -31,7 +31,7 @@ Here you can either:
 - Press the enter key and select one of the starting presets i have made, or
 - Go to the Skyrim Unbound MCM and create your own new game settings. Here you can edit your starting gear, location and lots of other things
 
-One important detail when creating your own setting is the option to be the Dragonborn or not. If you want to do the main questline, you MUST make yourself the dragonborn.
+One important detail when creating your own preset is the option to be the Dragonborn or not. If you want to do the main questline, you MUST make yourself the dragonborn.
 
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/96bdfe83-ec25-48f0-8d87-428b9ee9f171" />
 
