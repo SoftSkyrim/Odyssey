@@ -28,7 +28,7 @@ When you begin a new game you will greeted by this screen.
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/cfbbb1e8-7248-46bc-b10c-e92004e5a93f" />
 
 Here you can either:
-- press enter and select one of the starting presets i have made, or
+- Press enter and select one of the starting presets i have made, or
 - Go to the Skyrim Unbound MCM and create your own new game start. Here you can edit your staring gear, location and many more things
 
 One important detail when creating your own is the option to be the Dragonborn or not. If you want to do the main questline, you MUST make yourself the dragonborn.
