@@ -23,7 +23,7 @@ To run Skyrim Odyssey all you have to do is select "Odyssey" from the executable
 
 ## Alternate Start
 Odyssey uses the alternate start mod called [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)  
-When you begin a new game you will greeted by this screen. 
+When you begin a new game you will be greeted by this screen. 
 
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/cfbbb1e8-7248-46bc-b10c-e92004e5a93f" />
 
