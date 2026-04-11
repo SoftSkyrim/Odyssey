@@ -20,18 +20,18 @@
     "links": {
       "image": "https://raw.githubusercontent.com/SoftSkyrim/Odyssey/main/Thumbnail.webp",
       "readme": "https://github.com/SoftSkyrim/Odyssey",
-      "download": "https://authored-files.wabbajack.org/Odyssey.wabbajack_abe2332d-6447-4de5-b849-288733e83f78",
+      "download": "https://authored-files.wabbajack.org/Odyssey.wabbajack_a53257ce-a9a7-4b02-b13e-7555ded97f8c",
       "machineURL": "SkyrimOdyssey",
       "discordURL": "https://discord.gg/HHxNnZyEGt"
     },
     "download_metadata": {
-      "Hash": "lqlwItuk8hI=",
-      "Size": 47162477,
-      "NumberOfArchives": 1346,
-      "SizeOfArchives": 135720487793,
-      "NumberOfInstalledFiles": 159964,
-      "SizeOfInstalledFiles": 178384593944
+      "Hash": "/D7c+lhfbM8=",
+      "Size": 47108532,
+      "NumberOfArchives": 1345,
+      "SizeOfArchives": 133803716548,
+      "NumberOfInstalledFiles": 158243,
+      "SizeOfInstalledFiles": 175164334783
     },
-    "version": "1.1.3"
+    "version": "1.1.4"
   }
 ]
